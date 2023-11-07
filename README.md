@@ -10,5 +10,8 @@ iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/
 
 ### Run
 ```
+File-Server
+```
+```
 File-Server -Port 8080 -Path "c:\Users\Public\Documents"
 ```
