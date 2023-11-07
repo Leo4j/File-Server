@@ -1,7 +1,7 @@
 # File-Server
 A simple TCP file server that will serve files (located within the folder you specify) from 0.0.0.0
 
-If not specified, Port will be set to `8080`, and PAth to `$pwd`
+If not specified, Port will be set to `8080`, and Path to `$pwd`
 
 ### Load in memory
 ```
